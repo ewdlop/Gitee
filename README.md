@@ -12,3 +12,7 @@ Pancake loves waffle.
 ## OpenHarmony
 
 [OpenHarmony(https://gitee.com/openharmony)](https://gitee.com/openharmony)
+
+## Gitee API
+
+[Gitee API(https://gitee.com/api/v5/swagger#/deleteV5ReposOwnerRepoCommentsId)](https://gitee.com/api/v5/swagger#/deleteV5ReposOwnerRepoCommentsId)
